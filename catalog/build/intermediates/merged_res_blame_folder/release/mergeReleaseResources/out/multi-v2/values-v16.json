@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zebpay.ui.catalog-mergeReleaseResources-58:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/anand.v/.gradle/caches/8.14.2/transforms/0327bd65227ba06d27eddd9e5f854862/transformed/appcompat-1.7.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

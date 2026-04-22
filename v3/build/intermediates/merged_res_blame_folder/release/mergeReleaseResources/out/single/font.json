@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/font/figtree_semibold.ttf",
+        "source": "com.zebpay.ui.v3-main-51:/font/figtree_semibold.ttf"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/font/figtree_black.ttf",
+        "source": "com.zebpay.ui.v3-main-51:/font/figtree_black.ttf"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/font/figtree_bold.ttf",
+        "source": "com.zebpay.ui.v3-main-51:/font/figtree_bold.ttf"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/font/figtree_medium.ttf",
+        "source": "com.zebpay.ui.v3-main-51:/font/figtree_medium.ttf"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/font/figtree_extra_bold.ttf",
+        "source": "com.zebpay.ui.v3-main-51:/font/figtree_extra_bold.ttf"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/font/figtree_regular.ttf",
+        "source": "com.zebpay.ui.v3-main-51:/font/figtree_regular.ttf"
+    }
+]

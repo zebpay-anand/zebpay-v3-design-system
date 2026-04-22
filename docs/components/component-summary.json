@@ -1,0 +1,257 @@
+{
+  "generated_on": "2026-04-22",
+  "source": "v3/src/main/kotlin/com/zebpay/ui/v3/components/{atoms,molecules,organisms}",
+  "totals": {
+    "files": 74,
+    "z_components": 90,
+    "public_composables": 207,
+    "preview_annotations": 105,
+    "files_with_preview": 65,
+    "files_without_preview": 9
+  },
+  "by_layer": [
+    {
+      "layer": "atoms",
+      "files": 26,
+      "z_components": 37,
+      "public_composables": 72,
+      "preview_annotations": 37,
+      "files_with_preview": 22,
+      "files_without_preview": 4,
+      "subcategories": [
+        {
+          "name": "container",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 1
+        },
+        {
+          "name": "field",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 1
+        },
+        {
+          "name": "header",
+          "files": 2,
+          "z_components": 4,
+          "preview_annotations": 6
+        },
+        {
+          "name": "icon",
+          "files": 4,
+          "z_components": 7,
+          "preview_annotations": 8
+        },
+        {
+          "name": "label",
+          "files": 5,
+          "z_components": 8,
+          "preview_annotations": 7
+        },
+        {
+          "name": "loader",
+          "files": 1,
+          "z_components": 2,
+          "preview_annotations": 2
+        },
+        {
+          "name": "misc",
+          "files": 4,
+          "z_components": 3,
+          "preview_annotations": 2
+        },
+        {
+          "name": "navigation",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 0
+        },
+        {
+          "name": "pills",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 1
+        },
+        {
+          "name": "selections",
+          "files": 1,
+          "z_components": 4,
+          "preview_annotations": 3
+        },
+        {
+          "name": "seperator",
+          "files": 1,
+          "z_components": 2,
+          "preview_annotations": 1
+        },
+        {
+          "name": "shimmer",
+          "files": 3,
+          "z_components": 0,
+          "preview_annotations": 2
+        },
+        {
+          "name": "tab",
+          "files": 1,
+          "z_components": 3,
+          "preview_annotations": 3
+        }
+      ]
+    },
+    {
+      "layer": "molecules",
+      "files": 42,
+      "z_components": 51,
+      "public_composables": 125,
+      "preview_annotations": 65,
+      "files_with_preview": 41,
+      "files_without_preview": 1,
+      "subcategories": [
+        {
+          "name": "banner",
+          "files": 2,
+          "z_components": 4,
+          "preview_annotations": 3
+        },
+        {
+          "name": "bottomsheet",
+          "files": 4,
+          "z_components": 4,
+          "preview_annotations": 7
+        },
+        {
+          "name": "button",
+          "files": 5,
+          "z_components": 6,
+          "preview_annotations": 6
+        },
+        {
+          "name": "card",
+          "files": 3,
+          "z_components": 6,
+          "preview_annotations": 6
+        },
+        {
+          "name": "dropdown",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 1
+        },
+        {
+          "name": "empty",
+          "files": 1,
+          "z_components": 0,
+          "preview_annotations": 1
+        },
+        {
+          "name": "field",
+          "files": 8,
+          "z_components": 10,
+          "preview_annotations": 11
+        },
+        {
+          "name": "header",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 4
+        },
+        {
+          "name": "keyword",
+          "files": 1,
+          "z_components": 0,
+          "preview_annotations": 1
+        },
+        {
+          "name": "list",
+          "files": 4,
+          "z_components": 5,
+          "preview_annotations": 7
+        },
+        {
+          "name": "navigation",
+          "files": 1,
+          "z_components": 2,
+          "preview_annotations": 2
+        },
+        {
+          "name": "pager",
+          "files": 1,
+          "z_components": 0,
+          "preview_annotations": 1
+        },
+        {
+          "name": "pills",
+          "files": 1,
+          "z_components": 0,
+          "preview_annotations": 1
+        },
+        {
+          "name": "refresh",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 3
+        },
+        {
+          "name": "tab",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 1
+        },
+        {
+          "name": "table",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 1
+        },
+        {
+          "name": "tags",
+          "files": 2,
+          "z_components": 3,
+          "preview_annotations": 4
+        },
+        {
+          "name": "toast",
+          "files": 2,
+          "z_components": 3,
+          "preview_annotations": 3
+        },
+        {
+          "name": "tooltip",
+          "files": 2,
+          "z_components": 3,
+          "preview_annotations": 2
+        }
+      ]
+    },
+    {
+      "layer": "organisms",
+      "files": 6,
+      "z_components": 2,
+      "public_composables": 10,
+      "preview_annotations": 3,
+      "files_with_preview": 2,
+      "files_without_preview": 4,
+      "subcategories": [
+        {
+          "name": "bottomsheet",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 2
+        },
+        {
+          "name": "selector",
+          "files": 1,
+          "z_components": 1,
+          "preview_annotations": 1
+        },
+        {
+          "name": "webview",
+          "files": 4,
+          "z_components": 0,
+          "preview_annotations": 0
+        }
+      ]
+    }
+  ]
+}

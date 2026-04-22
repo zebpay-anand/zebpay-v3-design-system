@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zebpay.ui.catalog-mergeDebugResources-2:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/private/var/folders/g2/w7f2mysd3q77p731kv_jxhwr0000gq/T/cursor-sandbox-cache/259e51a2db37fe0eed24f8eb4f8c1f1d/gradle/caches/8.14.2/transforms/b0e51c271255bb76dc7cdb931a7d8727/transformed/material-1.12.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

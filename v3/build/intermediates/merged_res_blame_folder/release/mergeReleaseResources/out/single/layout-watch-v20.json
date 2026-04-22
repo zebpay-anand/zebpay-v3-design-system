@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

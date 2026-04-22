@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_available.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_available.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_current_price2.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_current_price2.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_current_price.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_current_price.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_percent.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_percent.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_portfolio_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_portfolio_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_exchange_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_exchange_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_total.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_total.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_looked.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_looked.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_file.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_file.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_fees.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_fees.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_gift.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_gift.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_future_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_future_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_wallet_history.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_wallet_history.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_future_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_future_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_cryptopacks_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_cryptopacks_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_quicktrade_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_quicktrade_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_receive.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_receive.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_image_place_holder.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_image_place_holder.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_gst.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_gst.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_exchange.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_exchange.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_income_source.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_income_source.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_trade_avg_price.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_trade_avg_price.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_calender.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_calender.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_vip.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_vip.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_send.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_send.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_fiat_deposit.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_fiat_deposit.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_home_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_home_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_trade_price2.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_trade_price2.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_cryptopacks_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_cryptopacks_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_cryptopacks.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_cryptopacks.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_earn.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_earn.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_unlocked_available.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_unlocked_available.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_exchange_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_exchange_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_percent.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_percent.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_amount.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_amount.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_quicktrade_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_quicktrade_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_portfolio_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_portfolio_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_current_price3.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_current_price3.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_quicktrade.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_quicktrade.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_home_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_home_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_dual_tone_coins.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_dual_tone_coins.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable-night-v8/ic_zebpay_sheet_background.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable-night/ic_zebpay_sheet_background.xml"
+    }
+]

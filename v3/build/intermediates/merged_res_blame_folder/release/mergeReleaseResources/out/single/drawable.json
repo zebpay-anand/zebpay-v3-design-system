@@ -1,0 +1,942 @@
+[
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_btn_borderless_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_rewards.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_rewards.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_sorter_line.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_sorter_line.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_switch_thumb_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_radio_filled.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_radio_filled.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_cryptopacks.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_cryptopacks.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_item_background_holo_light.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_doc_number.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_doc_number.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/notification_bg_low.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/tooltip_frame_light.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_arrow_left.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_arrow_left.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_sip.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_sip.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_notification.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_notification.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_bank.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_bank.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_trade_avg_price.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_trade_avg_price.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_coins.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_coins.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_zxpress.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_zxpress.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_rightward.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_rightward.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_down.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_down.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_gift.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_gift.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_tick_circle.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_tick_circle.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_crown.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_crown.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_checkbox_partial_fill.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_checkbox_partial_fill.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_notification_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_notification_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_vector_test.xml",
+        "source": "com.zebpay.ui.v3-appcompat-resources-1.7.0-43:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_arrow_right.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_arrow_right.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_illustration_green.webp",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_illustration_green.webp"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_ongoing_status.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_ongoing_status.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_blocker_bank_verify.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_blocker_bank_verify.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_illustration_red.webp",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_illustration_red.webp"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_market_sell_order_image.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_market_sell_order_image.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_file.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_file.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ratingbar_small_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_blocker_kyc_reject.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_blocker_kyc_reject.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ratingbar_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/notification_bg.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_currency_sgd.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_currency_sgd.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_expand.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_expand.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_percent.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_percent.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_circle_cross_filled.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_circle_cross_filled.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_address.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_address.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_edit.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_edit.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_fire_icon.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_fire_icon.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_illustration_orange.webp",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_illustration_orange.webp"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_quicktrade.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_quicktrade.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_illustration_yellow.webp",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_illustration_yellow.webp"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_sorter_filled.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_sorter_filled.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_user.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_user.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_blocker_bank_add.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_blocker_bank_add.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_circle_tick_filled.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_circle_tick_filled.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_pan_number.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_pan_number.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_currency_inr.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_currency_inr.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_item_background_holo_dark.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_error.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_error.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_email.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_email.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_search.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_search.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_arrow_up.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_arrow_up.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_checkbox_filled.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_checkbox_filled.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_futures.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_futures.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_logo.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_logo.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_limit_sell_order_image.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_limit_sell_order_image.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_view.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_view.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_call_answer_low.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_btn_check_material_anim.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_info.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_info.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_btn_radio_material_anim.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_tab_indicator_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_arrow_down.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_arrow_down.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_help.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_help.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_image_place_holder.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_image_place_holder.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_set_alert.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_set_alert.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_exchange_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_exchange_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_receive.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_receive.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_limit_buy_order_image.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_limit_buy_order_image.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_limit_stop.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_limit_stop.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_background_blur.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_background_blur.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_download.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_download.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_search.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_search.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_income_source.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_income_source.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_internet_issue.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_internet_issue.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_current_price.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_current_price.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_wallet_history.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_wallet_history.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_call_answer.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/ic_call_answer.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_star_half_black_48dp.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_star_half_black_48dp.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_exchange.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_exchange.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/tooltip_frame_dark.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_currency_tether.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_currency_tether.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_circular_count_box.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_circular_count_box.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_illustration_purple.webp",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_illustration_purple.webp"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_send.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_send.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_list_selector_holo_light.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_stop_buy_order_image.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_stop_buy_order_image.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_illustration_gray.webp",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_illustration_gray.webp"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/btn_radio_on_mtrl.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_stop_sell_order_image.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_stop_sell_order_image.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_call_answer_video_low.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_icon.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_icon.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_ellipse.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_ellipse.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_error.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_error.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_blocker_zebpay.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_blocker_zebpay.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_tick.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_tick.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_call_answer_video.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_tether_usdt.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_tether_usdt.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_currency_aud.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_currency_aud.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_available.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_available.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_home_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_home_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_support.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_support.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_hamburger.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_hamburger.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_currency_euro.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_currency_euro.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_call_decline.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/ic_call_decline.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_upcoming_status.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_upcoming_status.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_info.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_info.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_coins.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_coins.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_star_filled.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_star_filled.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_logo.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_logo.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_looked.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_looked.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_percent.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_percent.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/test_level_drawable.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/test_level_drawable.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_cross.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_cross.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_fast.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_fast.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_total.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_total.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_vip.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_vip.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_up.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_up.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_pan_name.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_pan_name.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_complete_status.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_complete_status.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_future_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_future_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_blocker_kyc_exhausted.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_blocker_kyc_exhausted.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_earn.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_earn.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_coins.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_coins.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_menu_share_mtrl_alpha.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_sheet_background.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_sheet_background.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_doc_type.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_doc_type.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_add_circle.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_add_circle.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_gst.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_gst.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_blocker_kyc_verify.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_blocker_kyc_verify.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_star.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_star.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_collapsed_thin_icon.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_collapsed_thin_icon.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_approximate.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_approximate.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_btn_radio_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_current_price2.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_current_price2.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_textfield_search_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_blocker_account_restrict.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_blocker_account_restrict.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_flag_in.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_flag_in.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_market_buy_order_image.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_market_buy_order_image.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_text_cursor_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_downwards.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_downwards.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_blocker_bank_reject.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_blocker_bank_reject.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_call_decline_low.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_menu.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_menu.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_quicktrade_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_quicktrade_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_gift.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_gift.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_subtract.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_subtract.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_trade_price2.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_trade_price2.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_tick.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_tick.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_illustration_blue.webp",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_illustration_blue.webp"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_summary.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_summary.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_arrow_transfer.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_arrow_transfer.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_upwards.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_upwards.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_history.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_history.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_hide.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_hide.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_remove.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_remove.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_bitcoin_btc.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_bitcoin_btc.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_asterisk.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_asterisk.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_seekbar_track_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_future_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_future_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_separator.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_separator.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_star_black_48dp.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_star_black_48dp.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_home_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_home_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_quicktrade_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_quicktrade_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_exchange_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_exchange_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_flyy_gift_icon.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_flyy_gift_icon.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_bank.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_bank.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_amount.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_amount.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_shield.webp",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_shield.webp"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_landscape.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_landscape.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_download.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_download.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_ab_back_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_flyy_purple_star.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_flyy_purple_star.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_notifications.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_notifications.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zepay_success_confetti.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zepay_success_confetti.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_add.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_add.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_cryptopacks_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_cryptopacks_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_streak.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_streak.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_cryptopacks_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_cryptopacks_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_currency_usd.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_currency_usd.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_quicktrade.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_quicktrade.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_coin_icon.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_coin_icon.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_btn_check_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_document.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_document.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_reward.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_reward.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_portfolio_active.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_portfolio_active.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/notification_icon_background.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_calender.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_calender.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_unlocked_available.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_unlocked_available.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_fees.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_fees.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_current_price3.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_current_price3.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_sorter.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_sorter.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_clear_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_radio_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_radio_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_ic_search_api_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_fiat_deposit.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_fiat_deposit.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_portfolio_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_portfolio_default.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/btn_radio_off_mtrl.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_locked.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_locked.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_user.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_user.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/abc_cab_background_top_material.xml",
+        "source": "com.zebpay.ui.v3-appcompat-1.7.0-41:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_glass_cryptopacks.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_glass_cryptopacks.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/notification_tile_bg.xml",
+        "source": "com.zebpay.ui.v3-core-1.16.0-21:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_blocker_kyc_review.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_blocker_kyc_review.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_dual_tone_earn.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_dual_tone_earn.xml"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_unlock_point.png",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_unlock_point.png"
+    },
+    {
+        "merged": "com.zebpay.ui.v3-release-50:/drawable/ic_zebpay_checkbox_default.xml",
+        "source": "com.zebpay.ui.v3-main-51:/drawable/ic_zebpay_checkbox_default.xml"
+    }
+]

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Zebpay-Catalog</string>
+
+    <string name="color_palette">Color Palette</string>
+    <string name="typography">Typography</string>
+    <string name="zebpay_buttons">Zebpay Buttons</string>
+    <string name="zebpay_tab">Zebpay Tab</string>
+    <string name="zebpay_pills">Zebpay Pills</string>
+    <string name="zebpay_tag">Zebpay Tags</string>
+    <string name="zebpay_misc">Zebpay Misc</string>
+    <string name="zebpay_header">Zebpay Header</string>
+    <string name="zebpay_input_field">Zebpay InputField</string>
+    <string name="zebpay_keyboard">Zebpay Keyboard</string>
+    <string name="zebpay_empty_state">Zebpay Empty State</string>
+    <string name="zebpay_dropdown">Zebpay Dropdowns</string>
+    <string name="zebpay_toast">Zebpay Toast</string>
+    <string name="zebpay_sheet">Zebpay BottomSheet</string>
+
+    <string name="utilize_color_description">Utilize color for meaningful.</string>
+    <string name="list_of_text_variations_description">List of Text Variations</string>
+    <string name="buttons_help_users_description">Buttons help users to take actions.</string>
+    <string name="tab_showcase_description">Tabs support navigation.</string>
+    <string name="pill_showcase_description">Pills are quick-selection buttons.</string>
+    <string name="tag_showcase_description">TStatus/Generic Tags Default PNL Tags</string>
+    <string name="misc_showcase_description">Badges and helpers for the UI screens</string>
+    <string name="header_showcase_description">Headers display information and actions at the top of a screen.</string>
+    <string name="inputfield_showcase_description">Display Inputs Field.</string>
+    <string name="keyboard_showcase_description">keyboards bar used across the platform</string>
+    <string name="empty_state_showcase_description">Empty states occur when an item’s content can’t be shown.</string>
+    <string name="dropdown_showcase_description">MISC generic components</string>
+    <string name="toast_showcase_description">Toast are informative that provide contextual</string>
+    <string name="sheet_showcase_description">Bottomsheet designs for relevant usecases</string>
+</resources>

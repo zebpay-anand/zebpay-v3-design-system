@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <style name="NightAdjusted.Theme.Zeb" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#34345A</item>
+        <item name="android:colorAccent">#34345A</item>
+        <item name="android:navigationBarColor">#34345A</item>
+        <item name="android:windowLightNavigationBar" ns1:ignore="NewApi">true</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+    <style name="Theme.Zeb" parent="NightAdjusted.Theme.Zeb"/>
+</resources>

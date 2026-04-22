@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="pull_down_to_refresh">Pull down to refresh</string>
+    <string name="refreshing">Refreshing</string>
+    <string name="c_permission_enable_in_settings">Permission denied. Please enable it in Settings.</string>
+
+
+    <!-- KYC Related String Messages Start Here-->
+
+    <string name="complete_your_kyc">Complete your KYC</string>
+    <string name="start_kyc_verification" tools:ignore="ExtraTranslation">Start KYC Verification</string>
+    <string name="continue_kyc_verification" tools:ignore="ExtraTranslation">Continue with verification</string>
+    <string name="complete_kyc_desc" tools:ignore="ExtraTranslation">
+        To start trading without any restrictions, please complete your KYC verification.
+    </string>
+    <string name="kyc_rejected">KYC Rejected</string>
+    <string name="kyc_reject_desc">
+        Your KYC verification has been rejected, kindly re-attempt your KYC.
+    </string>
+    <string name="kyc_under_review">KYC Under Review</string>
+    <string name="kyc_under_review_desc">
+        This can take upto 48H. You will be notified upon completion until then please refrain to raise ticket.
+    </string>
+    <string name="kyc_attempt_exhausted">KYC Attempts Exhausted</string>
+    <string name="kyc_attempt_exhausted_desc">
+        You have made over %1$s attempts for KYC verification. Kindly raise a ticket to reach out to our support team.
+    </string>
+    <string name="re_attempt_kyc">Re-Attempt KYC</string>
+    <string name="view_details">View Details</string>
+    <string name="raise_a_ticket">Raise A Ticket</string>
+    <string name="do_not_close">Do not close the app</string>
+    
+    <!-- ReKYC Related String Messages Start Here-->
+    <string name="re_kyc_continue_verification">RE-KYC: Continue Verification</string>
+    <string name="re_kyc_pending">RE-KYC: Pending</string>
+    <string name="re_kyc_verify_now_subtitle">Verify now to maintain seamless access</string>
+    <string name="re_kyc_continue_with_verification">CONTINUE WITH VERIFICATION</string>
+    <string name="re_kyc_complete_rekyc">Complete Re-KYC</string>
+    <string name="re_kyc_under_review">RE-KYC: Under Review</string>
+    <string name="re_kyc_verifying_details">We\'re verifying your details</string>
+    <string name="re_kyc_rejected">RE-KYC: Rejected</string>
+    <string name="re_kyc_re_verify_subtitle">Please re-verify to get full access</string>
+    <string name="re_kyc_attempts_exhausted">RE-KYC: Attempts Exhausted</string>
+    <string name="re_kyc_contact_support">Please contact customer support</string>
+    <!-- ReKYC Related String Messages End Here-->
+    
+    <!-- KYC Related String Messages End Here-->
+
+    <!-- Bank Related String Messages Start Here-->
+    <string name="complete_bank_verification">Complete Bank Verification</string>
+    <string name="complete_bank_verification_desc">
+        Please complete bank verification to start trading on your account
+    </string>
+    <string name="bank_under_verification">Bank Under Verification</string>
+    <string name="bank_under_verification_desc">Your bank account is currently under verification, we will process your bank as quickly as possible.</string>
+    <string name="no_bank_account">No Bank Account Found</string>
+    <string name="no_bank_account_desc">Please add your bank account to enable fiat transactions.</string>
+    <string name="bank_account_rejected">Bank Account Rejected</string>
+    <string name="bank_account_rejected_desc">Your bank verification has been rejected. Please try again.</string>
+    <!-- Bank Related String Messages End Here-->
+    <string name="c_okay">Okay</string>
+    <string name="c_add_bank">Add Bank</string>
+    <string name="c_verify_bank">Verify Bank</string>
+    <string name="c_begin_your_crypto_journey">Seamless trading awaits as you begin your crypto journey.</string>
+    <string name="get_started">Get Started</string>
+    <string name="explore_crypto_with_zebpay">Explore crypto with ZebPay!</string>
+
+    <string name="account_restricted">Account Restricted</string>
+    <string name="account_restricted_desc">Your account has been restricted. Please visit help.zebpay.com for assistance.</string>
+    <string name="get_assistance">Get assistance</string>
+
+    <string name="email_not_verified">Email not verified</string>
+    <string name="email_not_verified_desc">Kindly verify your email address to Buy/Sell crypto currencies safely.</string>
+    <string name="verify_email">Verify email</string>
+
+    <string name="blocker_continue_your_kyc">KYC: Continue Verification</string>
+    <string name="blocker_complete_your_kyc">KYC: Complete Verification</string>
+    <string name="blocker_review_your_kyc">KYC: Under Review</string>
+    <string name="blocker_rejected_your_kyc">KYC: Rejected</string>
+    <string name="blocker_exhausted_your_kyc">KYC: Attempts Exhausted</string>
+
+    <string name="blocker_subtext_continue_your_kyc">Verify to trade without any restrictions</string>
+    <string name="blocker_subtext_review">We\'re verifying your details</string>
+    <string name="blocker_subtext_rejected">Please re-verify to get full access</string>
+    <string name="blocker_subtext_exhausted">Please contact customer support</string>
+
+
+    <string name="blocker_bank_add_account">Bank: Add Account</string>
+    <string name="blocker_bank_under_verification">Bank: Under Review</string>
+    <string name="blocker_bank_reject">Bank: Account Rejected</string>
+
+    <string name="blocker_subtext_add_account">Add account to enable fiat transactions</string>
+    <string name="blocker_subtext_under_verification">We\'re verifying your details</string>
+    <string name="blocker_subtext_reject">Kindly re-attempt your verification</string>
+
+
+    <string name="blocker_trade_headline_unavailable">Trading Pair Unavailable</string>
+    <string name="blocker_trade_headline_daily_exhausted">Daily Limit Exhausted</string>
+    <string name="blocker_trade_headline_monthly_exhausted">Monthly Limit Exhausted</string>
+    <string name="blocker_trade_headline_order_exhausted">Order Limit Exhausted</string>
+
+    <string name="blocker_trade_subtext_unavailable">Please select a different asset to continue.</string>
+    <string name="blocker_trade_subtext_daily_exhausted">Transaction limit exhausted. Try again tomorrow.</string>
+    <string name="blocker_trade_subtext_monthly_exhausted">Transaction limit exhausted. Try again later.</string>
+    <string name="blocker_trade_subtext_order_exhausted">Max allowed orders reached. Try again later.</string>
+
+    <string name="blocker_go_back">Go Back</string>
+    <string name="blocker_view_open_order">View Open orders</string>
+
+</resources>

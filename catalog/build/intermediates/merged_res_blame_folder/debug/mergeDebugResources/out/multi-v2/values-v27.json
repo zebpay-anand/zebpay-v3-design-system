@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zebpay.ui.catalog-mergeDebugResources-2:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "/private/var/folders/g2/w7f2mysd3q77p731kv_jxhwr0000gq/T/cursor-sandbox-cache/259e51a2db37fe0eed24f8eb4f8c1f1d/gradle/caches/8.14.2/transforms/be1289e1e6645ed8aa5ffba2d9607993/transformed/core-splashscreen-1.0.1/res/values-v27/values-v27.xml",
+                    "from": {
+                        "startLines": "2,3,4,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,136,229,405",
+                        "endLines": "2,3,6,9",
+                        "endColumns": "80,92,12,12",
+                        "endOffsets": "131,224,400,588"
+                    }
+                }
+            ]
+        }
+    ]
+}
